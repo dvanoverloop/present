@@ -2,3 +2,8 @@
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 10.0
+
+[submodule "OCA/margin-analysis"]
+	path = OCA/margin-analysis
+	url = git@github.com:OCA/margin-analysis.git
+	branch = 10.0
